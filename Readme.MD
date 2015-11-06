@@ -23,8 +23,6 @@ c. How to run the program
 
 $ python python bing.py <BING_ACCOUNT_KEY> <t_es> <t_ec> <host>
 
-Our account key: "OFzQIRuHcxWsxd0/QCQeUSvDsQOW/mVkEJygRt2rnUE"
-
 ----------------
 d. Internal Design
 
@@ -88,4 +86,3 @@ Here we neglected the retrieval of "PDF", "PPT", "PPTx" file since we find out t
 ----------------
 e. Bing Account Key
 
-"OFzQIRuHcxWsxd0/QCQeUSvDsQOW/mVkEJygRt2rnUE"

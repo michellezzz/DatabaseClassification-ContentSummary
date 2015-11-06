@@ -21,7 +21,7 @@ Readme.MD (readme)
 ----------------
 c. How to run the program
 
-$ python python bing.py <BING_ACCOUNT_KEY> <t_es> <t_ec> <host>
+$ python python bing.py BING_ACCOUNT_KEY t_es t_ec host
 
 ----------------
 d. Internal Design
